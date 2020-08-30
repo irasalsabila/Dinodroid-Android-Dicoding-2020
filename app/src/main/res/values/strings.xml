@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">dicoding.Submission</string>
+    <string name="name_dino">Nama Dinosaurus</string>
+    <string name="content_main">Berikut Adalah Daftar Dinosaurus</string>
+    <string name="content_rank">Value rank</string>
+    <string name="overview">overview</string>
+    <string name="dinosaurus_identity">Dinosaurus Identity</string>
+    <string name="dinosaurus_overview">Dinosaurus Overview</string>
+    <string name="content_overview">content overview</string>
+    <string name="content_identity">content identity</string>
+    <string name="title_identity">Acronym \nGenus \nPhylum \nFamily \nHeight \nLength \nMass \nLived</string>
+    <string name="name_me">Salsabila Zahirah Pranida</string>
+    <string name="email_me">irasalsabila@gmail.com</string>
+    <string name="rank">Status: </string>
+</resources>
